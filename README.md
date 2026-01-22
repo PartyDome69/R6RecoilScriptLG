@@ -1,6 +1,7 @@
 # R6RecoilScriptLG
 Rainbow Six Siege X Recoil Script for Logitech G Hub 
 
+Create a new profile in Logitech G Hub in R6, copy the code below, and paste in the Luna Script.
 *******************************************************************************************************************************
 
 
